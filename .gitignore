@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+
+# Dataset (download with the command in README)
+data/
+
+# Trained weights (re-create with python train.py)
+checkpoints/
+*.pt
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
